@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda
+.env
+.venv/
+
+# SQLite cache
+*.db-journal
+
+# VS Code
+.vscode/
